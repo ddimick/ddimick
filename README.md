@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://raw.githubusercontent.com/ddimick/ddimick/main/mastodon.svg" width="auto" height="auto">
+Mastodon: <img src="https://raw.githubusercontent.com/ddimick/ddimick/main/mastodon.svg" width="auto" height="auto">
